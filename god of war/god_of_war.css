@@ -1,0 +1,378 @@
+
+body {
+margin: 0px;
+overflow-x: hidden;
+}
+.god{
+    height: 35px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.god h3{
+    font-size: medium;
+    padding-right: 10px; 
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size:26px;
+}
+
+.of{
+    margin: 0px;
+    height: 30px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.of img{
+    width: 40px;
+    padding-left: 10px;
+}
+
+.of a{
+    justify-content: space-evenly;
+    text-decoration: none;
+    padding-left:14px ;
+    padding-top: 8px;
+    color: gray;
+    font-size: 12px;
+}
+
+.war p{
+    display: flex;
+    justify-content: flex-end;
+    text-align: end;
+    background-color: blue;
+    color:white;
+    font-weight: bold;
+    font-size: larger;
+    margin-left: 650px;
+    border-radius: 500px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    
+}
+
+ .war input{
+    display: inline;
+    padding-right: 20px;
+    margin-top: 7px;
+    margin-right:0px ;
+    border: 0px;
+    text-align: center;
+    width: 10px;
+    height: 20px;
+    background-color: white;
+    margin-left: 50px;
+    border-radius: 300px;
+}
+
+.grodus{
+ height: 60px;
+ width: 100%;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ font-weight: bolder;
+ position: sticky;
+ top: 10px;
+}
+
+.grodus a {
+    display: inline;
+    text-decoration: none;
+    color: black;
+   padding-right: 30px;
+    font-size: large;
+
+}
+
+.zeus {
+  background-color: black;
+  height: 400px;
+}
+
+.zeus img{
+    height:600px;
+    width: 100%}
+
+
+.thor{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 390px;
+    width: 100%;
+    gap: 50px;
+}
+
+.olimiya img{
+    display: block;
+    margin-top: 180px;
+    height: 99.6px;
+    width: 177.9px;
+    border-radius: 20px;  
+}
+
+.name h1{
+    font-family:sst, Arial, sans-seriffo;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+
+.more{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+} 
+
+.osicate{
+    background-color:white;
+    color: rgb(0, 0, 0);
+    width: 205.75px;
+    height: 449.25px;
+    padding: 30px;
+    text-align: left;
+    border-radius:8px ;
+
+}
+
+
+.osicate img{
+    display: block;
+    align-items: center;
+    gap: 20px;
+    width: 205.75px;
+    height: 205.75px;
+}
+
+.back{
+    background-image: url(image/blue.jpg);
+    width: 100%;
+    height: 800px;
+    background-color:rgb(15, 15, 39);
+    margin-top: 30px;
+}
+
+.bs h1{
+     color: white;
+     text-align: center;
+     display: block;
+     align-items: ;
+     font-size: 40px;
+     padding-top: 40px;
+     font-weight: bolder;
+}
+
+.bs p{
+    color: gray;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.rag{
+    margin-left: 40%;
+    
+}
+
+.rag span{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    padding-left:5px; 
+    border-radius: 200px;
+    width: 30%;
+    gap: 30px;
+}
+
+.rag a{
+    display: inline;
+    padding: 15px;
+    padding-left: 0%;
+    border: 1px solid black;
+    background-color: black;
+    color:white;
+    border-radius: 200px;
+    text-align: center;  
+    text-decoration: none;
+}
+
+.collection{
+    display: flex;
+    justify-content: end;
+    margin-left: 0%;
+    
+}
+
+ .love h1 {
+    margin-top: 0%;
+    color: white;
+}
+
+.love p{
+    color: grey;
+    text-align: justify;
+}
+
+.love li{
+    color: white;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+
+.anniversary{
+    background-color:  rgb(30, 43, 31);
+    width: 100%;
+    height: 650px;
+    margin: 0px;
+}
+
+.copy{
+    width: 100% ;
+}
+
+.copy h1{
+    text-align: center;
+    color: white;
+    margin-top: 0px;
+    position: relative;
+    top: 70px;
+}
+
+.copy img{
+    display: flex;
+    width:242.39px;
+    height: 242.39px;
+    position: relative;
+    top: 120px;
+    left: 290px;
+}
+
+.copy p {
+    color: black;
+    text-align: justify;
+    display: flex;
+    position: relative;
+    margin-left: 50%;
+    bottom: 140px;
+    right: 50px;
+}
+
+.copy ul li{
+    color: black;
+    text-align: justify;
+    position: relative;
+    margin-left: 50%;
+    bottom: 130px;
+    right: 50px;
+    margin-bottom: 05px;
+    color: whitesmoke;   
+}
+
+.copy ol li{
+    color: black;
+    text-align: justify;
+    position: relative;
+    margin-left: 50%;
+    bottom: 110px;
+    right: 50px;
+    margin-bottom: 05px;
+    color: whitesmoke; 
+    font-size: x-small;
+}
+
+.journey{
+    background-color:rgb(49, 49, 59);
+    height: auto;
+    width: 100%;
+    padding-bottom: 50px;
+}
+
+.journey h1{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.journey p{
+    text-align: justify;
+    height: 187.97px;
+    width: 408.67px ;
+    position: relative;
+    text-align: center;
+    top: 40px;
+    left: 410px;
+    color: gray;
+}
+
+.link{
+    width: 40px;
+    height: 40px;
+    display: inline;
+    position: relative;
+    
+    
+}
+
+.linkone {
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top-right-radius: 200px;
+    border-bottom-right-radius: 200px;
+    border-radius: 200px;
+    position: relative;
+    left: 17%;
+}
+
+.linkone a{
+    text-decoration: none; 
+     margin-left: 20px;
+     position: relative;
+     right: 10px;
+     color: white;
+     
+}
+
+.fantastic p{
+    color: white;
+}
+
+.one {
+    position: relative;
+    bottom: 200px;
+    left: 300px;
+
+}
+
+.one p{
+    text-align: start;
+    
+}
+
+footer{
+    background-image: url(image/footer.PNG);
+    height: 587px;
+    width: 100%;
+    background-repeat: no-repeat;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
