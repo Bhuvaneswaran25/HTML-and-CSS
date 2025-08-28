@@ -1,0 +1,76 @@
+* {
+    color: white;
+    text-align: center;
+    overflow-x: hidden;
+    margin-top: 15px;
+}
+
+body {
+    background-color: black;
+}
+
+main {
+    border-radius: 20px;
+    border: 1px solid white;
+    box-shadow: 0px 10px 15px;
+    width: 800px;
+    margin-left: 490px;
+}
+
+h1 {
+    text-shadow: 0px 2px 10px gray;
+}
+
+.bg img {
+    border-radius: 20px;
+    margin-top: 10px;
+    box-shadow: 0px 1px 10px gray;
+}
+
+
+.form {
+    height: 350px;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 20px;
+}
+
+.form input[type=text] {
+    background-color: black;
+    color: gray;
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.form input[type=number] {
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.form2 {
+    background-color: black;
+    border-radius: 20px;
+    width: 300px;
+    height: 40px;
+}
+
+option {
+    border:1px solid white;
+}
+
+.form input[type=submit]{
+    background-color: black;
+    color: gray;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    border-radius: 1 solid white;
+    box-shadow: 0px 5px 10px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-left: 76%;
+}

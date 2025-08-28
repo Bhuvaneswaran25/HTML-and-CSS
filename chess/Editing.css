@@ -1,0 +1,212 @@
+    .chess {
+      margin-bottom: 5px;
+    }
+
+    .chess h1{
+     display: block;
+     text-align: center;    
+     color: white;
+      margin-bottom: 0%;
+      background-color: black;
+      padding-left: 35%;
+      margin: 0%;
+      
+      
+    }
+   
+    span{
+
+      color: black;
+      background-color:  white; 
+      padding-right: 59%;
+      width: 0%;
+    }
+
+    .world {
+      padding-right: 10px;
+      padding-bottom: 198px;
+      background-color: black;
+      width: 50%;
+      margin-left: 0%;
+      border-top: 0%;
+    }
+    
+      
+    .chess img{
+      display: block;
+        width: 500px;
+        padding-left: 38%;
+
+        margin-left: 0%;
+        background-color: black;    
+     }
+     
+   
+    .box {
+        display: inline;
+        background-color: white;
+        width: 500px;
+        height: 500px; 
+        padding-bottom: 430px;
+        padding-right: 50%;  
+        text-align: left; 
+        
+    }
+
+    .king{
+        background-color: black;
+        color: black;
+        padding-left: 10px;
+        
+        
+    }
+
+      .king h1{
+         text-align: left;
+         color: black;
+         padding-left: 5px;
+
+     }
+
+     
+
+     .king p { 
+        
+        text-align: left;
+        width: 50%;
+        color: black;
+        padding-left: 5px;
+     }
+
+     .queen{
+        background-color: white;
+        padding-bottom: 10px;
+     }
+     
+     .box3 h1{  
+       display: block;
+        text-align: right;
+        width: 200%;
+        color: black ; 
+     }
+
+     .box3 {
+      display: inline-block;
+      background-color: black;
+      width: 50%;
+     }
+      
+     .box3 img {  
+        display: block;
+        padding-left:1640px;
+        
+     }
+
+     .queen p{
+     display: block;
+      text-align: right;
+      width: 850px;
+      padding-left: 490px;
+      margin-left: 50%;
+      
+     }
+     
+     .rook{
+        color: black;
+        background-color: black;
+       
+     }
+     
+     
+     .rook p{
+      text-align: justify;
+        
+     }
+
+      .s{
+         width: 50%;
+         background-color: white;
+         color: black;
+         padding-bottom: 20px;
+         padding-top: 10px;
+      }
+
+        .hop h1 {
+      display: block;
+      padding-left: 191%;
+      text-align: right;
+      color: black;
+     
+        }
+
+        .hop img {
+      display: inline-block;
+      text-align: right;
+      padding-left: 168%;
+        }
+
+        .hop p {
+      display: block;
+      padding-left: 1030px;
+      text-align: right;
+      width: 745px;
+     } 
+
+     .hop{
+      background-color: black;
+      display: inline-block;
+      width: 50%;
+     }
+
+     .bis{
+      background-color: white;
+      display: inline-block;
+      }
+
+    .k{
+         background-color: black;
+         color: black;
+      }      
+
+      .k p{
+         text-align: justify;
+        
+      }
+
+      .night{
+         
+         background-color: white;
+          width: 50%;
+          height: 50%;
+      }
+
+      .pawn h1{
+         display: block;
+         text-align: right;
+         padding-left: 1710px;
+      }
+      .pawn img{
+         display: inline-block;
+         text-align: right;
+         padding-left: 168.5%;
+      }
+      .pawn p{
+         display: block;
+         padding-left: 890px;
+         color: black;
+         text-align: right;
+         width: 100%;
+      }
+
+      .pawn {
+         display: inline-block;
+         background-color: white;
+      }
+
+      .soliders {
+         display: inline-block;
+         background-color: black;
+         width: 50%;
+      }
+
+   
