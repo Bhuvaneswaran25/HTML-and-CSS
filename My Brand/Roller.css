@@ -1,12 +1,83 @@
-*{
+* {
     overflow-x: hidden;
 }
 
-.roller {
+.roller p {
     margin-top: 20px;
+    margin-left: 30px;
+}
+
+.roller h1 {
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.roller img {
+    margin-left: 40%;
+    border-radius: 20px;
+}
+
+.roller h4 {
+    margin-left: 700px;
+}
+
+.roller h3 {
     margin-left: 10px;
 }
 
-.roller h3{
-    
+.price h1 {
+    margin-left: 10px;
+}
+
+.price p {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.prices {
+    border: 1px solid white;
+    margin: auto;
+    margin-bottom: 20px;
+
+}
+
+.prices th {
+    border: 1px solid white;
+    width: 100px;
+}
+
+.price1 td {
+    border: 1px solid white;
+    width: 100px;
+    height: 80px;
+    text-align: center;
+}
+
+.price1 a{
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 10px;
+
+}
+
+.footer{
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    margin-right: 0%;
+    border-top: 1px solid gray;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    box-shadow: 1px 10px 15px;
+}
+
+.footer h4 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.footer p{
+    text-align: center;
 }
