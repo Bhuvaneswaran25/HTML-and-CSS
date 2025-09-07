@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p id="one">hello</p>
+</body>
+<script>
+    let course = 'javascirpt';
+    {
+        document.getElementById('one').innerHTML = 'my declare variable is' + ' ' + course;
+    }
+
+    //let message= 'welcome';
+    // {
+    //    alert(message)
+    // }
+
+    // let message = 'welcome';
+    // {
+    //     prompt('enter your name')
+    //     alert (message)
+    //     confirm(message)
+    // }
+
+    // let age=15;  //declared 
+    // {
+    //     let age=31; //redeclared
+    // }
+    // console.log(age)
+
+    // let age=31;  //declared =31
+    // {
+    //     let age=0; //redeclared =0
+    // }
+    // console.log(age)
+
+    // the purpose of let will allow to reassign but not redeclared
+    const pi = 3.14;
+    {
+        const pi = 3.15;
+    }
+    console.log(pi)
+
+</script>
+
+</html>
